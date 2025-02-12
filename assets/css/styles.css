@@ -6,7 +6,7 @@
 }
 
 body{
-    background: url('/assets/fotos/fondo-corazones.jpg');
+    background: url('assets/fotos/fondo-corazones.jpg');
     background-position: center;
     min-height: 100vh;
     display: flex;
